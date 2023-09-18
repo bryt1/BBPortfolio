@@ -22,6 +22,8 @@ function App() {
         <Contact />
         <Footer />
         <FooterBottom />
+
+          {/*     <Resume /> */}
       </div>
     </div>
   );
